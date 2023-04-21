@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a todoApp<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about web-design - accessibility<br>⚡ Fun fact I am vegetarian
+🔭 I’m currently working on a fullStack project called poliMovil. This project would use the MERN stack, and it would allow users to login, add an origin, destination and corresponding hours of each action to pick-up clients/students nearby.<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about web-design - accessibility<br>⚡ Fun fact I am vegetarian
 
 
 ## 🌐 Socials:
